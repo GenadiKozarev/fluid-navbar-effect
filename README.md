@@ -1,9 +1,9 @@
 # fluid-navbar-effect
 
-### Really cool effect with a fluid navbar transition upon mouse hover
+### Dropdown with a really cool fluid effect upon user mouse hover
 
-Live:
+Live: https://genadikozarev.github.io/fluid-navbar-effect/
 
 Preview:
 
-Keywords:
+<img width="1493" alt="fluid-navbar-effect-preview" src="https://github.com/user-attachments/assets/606df67c-a3ce-4e98-a71b-5a397bac361d">
